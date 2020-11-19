@@ -1,0 +1,15 @@
+/blogpessoal/src/main/java/org/generation/blogPessoal/model/Usuario.java
+/blogpessoal/src/main/java/org/generation/blogPessoal/controller/UsuarioController.java
+/blogpessoal/src/main/java/org/generation/blogPessoal/service/UsuarioService.java
+/blogpessoal/src/main/java/org/generation/blogPessoal/BlogPessoalApplication.java
+/blogpessoal/src/main/java/org/generation/blogPessoal/model/Tema.java
+/blogpessoal/src/main/java/org/generation/blogPessoal/model/Postagem.java
+/blogpessoal/src/main/java/org/generation/blogPessoal/seguranca/BasicSecurityConfig.java
+/blogpessoal/src/main/java/org/generation/blogPessoal/seguranca/UserDetailServiceImpl.java
+/blogpessoal/src/main/java/org/generation/blogPessoal/seguranca/UserDetailsImpl.java
+/blogpessoal/src/main/java/org/generation/blogPessoal/model/UserLogin.java
+/blogpessoal/src/main/java/org/generation/blogPessoal/repository/TemaRepository.java
+/blogpessoal/src/main/java/org/generation/blogPessoal/controller/PostagemController.java
+/blogpessoal/src/main/java/org/generation/blogPessoal/controller/TemaController.java
+/blogpessoal/src/main/java/org/generation/blogPessoal/repository/PostagemRepository.java
+/blogpessoal/src/main/java/org/generation/blogPessoal/repository/UsuarioRepository.java
